@@ -6,4 +6,5 @@
 ○ The aim of the project is to contribute to the success of business by utilizing data analysis techniques, specially focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 ## ⇒ Tools
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1x/power-bi.png" alt="powerbi" width="40" height="40"/> 
  
